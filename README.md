@@ -1,6 +1,6 @@
 ### PGrant - Institution Management System
 
-# PGrant is a comprehensive institution management system designed to streamline operations, from onboarding and recruitment to payments and institutional information management. Built with Laravel, PGrant provides a centralized platform to efficiently handle all administrative processes while ensuring security and scalability.
+### PGrant is a comprehensive institution management system designed to streamline operations, from onboarding and recruitment to payments and institutional information management. Built with Laravel, PGrant provides a centralized platform to efficiently handle all administrative processes while ensuring security and scalability.
 Key Features:
 
 ✅ Onboarding & Recruitment – Seamlessly manage new applicants and recruitment processes.
